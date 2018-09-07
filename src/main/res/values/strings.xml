@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Change_layout_ex1</string>
+    <string name="name">Your Name</string>
+    <string name="school">Your School</string>
+    <string name="age">Your Age</string>
+    <string name="birthday">Your Birthday</string>
+    <string name="major">What\'s your Major</string>
+    <string name="job">Your Job</string>
+    <string name="location">Where are you?</string>
+    <string name="design">Design</string>
+    <string name="language">Language</string>
+    <string name="computer">Computer</string>
+    <string name="accounting">Accounting</string>
+    <string name="toadvance">Go to Advance</string>
+    <string name="tobasic">Go to Basic</string>
+    <string name="submit">Submit</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="tw">Taiwan</string>
+    <string name="jp">Japan</string>
+    <string name="th">Thailand</string>
+</resources>
